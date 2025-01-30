@@ -1,0 +1,14 @@
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\bin\Release\320 kbps converter.exe.config
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\bin\Release\320 kbps converter.exe
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\bin\Release\320 kbps converter.pdb
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\bin\Release\320 kbps converter.xml
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\bin\Release\Flat By DocXi.dll
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\obj\Release\320 kbps converter.vbproj.AssemblyReference.cache
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\obj\Release\KBPS_Converter.converter_program.resources
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\obj\Release\KBPS_Converter.Resources.resources
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\obj\Release\320 kbps converter.vbproj.GenerateResource.cache
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\obj\Release\320 kbps converter.vbproj.CoreCompileInputs.cache
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\obj\Release\320 kbps.CB40E2CB.Up2Date
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\obj\Release\320 kbps converter.exe
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\obj\Release\320 kbps converter.xml
+D:\Belgelerim\Visual Studio\Projects\320 kbps converter\320 kbps converter\obj\Release\320 kbps converter.pdb
